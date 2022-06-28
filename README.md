@@ -4,7 +4,7 @@ This repository holds the different evalutions performed on the EASIER Corpus.
 
 ## Usage
 If you want to see our results or try our code:
-- For annotators agreements go to: AGREEMENT_PROCESS/AGREEMENT.ipynb
+- For annotators agreement go to: AGREEMENT_PROCESS/AGREEMENT.ipynb
 
 - For user evaluation go to: USER_EVALUATION/CORPUS_USER_EVAL.ipynb and USER_EVALUATION/CORPUS_EVALUATION_SUBS.ipynb
 
