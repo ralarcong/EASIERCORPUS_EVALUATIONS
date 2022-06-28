@@ -1,19 +1,5 @@
 Welcome to the user evaluation of the EASIER Corpus.
 
-Source Files (Not available for the protection of user data):
-    - CORPUS_DEMOGRAPH_EVAL.csv hold demographic information of the users where:
-        Column1: holds the user ID
-        Column2: holds the gender of the user (1: female, 0: male)
-        Column3: holds the user's age
-        Column4: holds the user's education level
-        Column5: holds the number of books read per year
-        Column6: holds the group ID (0: older people, 1: people with intellectual disabilities ,2: control group)
-
-    - CORPUS_CWI_EVAL.csv holds the answers of each user of the study for task 1
-
-    - CORPUS_SUBS_EVAL.csv holds the answers of each user of the study for task 2 (1: accept, 0: reject)
-
-
 GOLD directory holds the true answers of the portion extracted of the EASIER corpus.
 
 CORPUS_USER_EVAL.ipynb holds the evaluation of the CWI dataset.
